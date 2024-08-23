@@ -38,3 +38,8 @@ const obj = {
           //or
 // const obj3 = {...obj1,...obj2,...obj3}
 
+//implicit return and explicit return 
+// signifinace of single line return and multiline return in arrow function 
+//use of curly braces and parenthesis.
+
+// global execution context  and functional executable context lecture 25 is imp for interview perspective.
